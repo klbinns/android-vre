@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Virginia Railway Express Tracker</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_spash">VRE</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="about_label">About</string>
+    <string name="about_string">About String Here</string>
+    <string name="vehicle_position_url">http://www.vre.org/gtfs-realtime/VehiclePositionFeed</string>
+    <string name="trip_update_url">http://www.vre.org/gtfs-realtime/TripUpdateFeed</string>
+
+</resources>
